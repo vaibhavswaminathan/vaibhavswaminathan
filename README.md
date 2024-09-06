@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @vaibhavswaminathan
-- 👀 I’m interested in the intersection of climate change/environmental sustainaibility and data science
-- 🌱 I’m currently pursuing a Masters degree in Data Science in Aachen, Germany
-- 💞️ I’m looking to collaborate on any projects in the climate and earth space!
-- 📫 How to reach me --> Write to me at vaibhav.swaminathan@rwth-aachen.de
+- 👀 I’m interested in exploring the application of data science for **climate informatics** and **earth observation**
+- 🎓 I hold a Master's degree in Data Science from RWTH Aachen, Germany
+- 📫 How to reach me --> Write me an email at [vaibhav.swaminathan@rwth-aachen.de](mailto:vaibhav.swaminathan@rwth-aachen.de)
 
 <!---
 vaibhavswaminathan/vaibhavswaminathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
